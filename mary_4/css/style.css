@@ -1,0 +1,65 @@
+@import url("reset.css");
+
+* {
+	font-family: 'Times New Roman', Times, serif;
+	font-size: 20px;
+	background-color: black;
+	color: grey;
+	padding-top: 0.5rem;
+}
+h1 {
+	color: black;
+	font-size: 80px;
+	padding-left: 23rem;
+	font-weight: bold;
+	opacity: 0.6;
+	font-family: Georgia;
+	text-shadow: 0 0 10px #fff,
+               0 0 20px  #fff,
+               0 0 30px  #fff,
+               0 0 40px  #228DFF,
+               0 0 70px  #228DFF,
+               0 0 80px  #228DFF,
+               0 0 100px #228DFF,
+               0 0 150px #228DFF;
+}
+h2,
+h3 {
+	color: black;
+	font-size: 30px;
+	padding-left: 32rem;
+	padding-top: 2rem;
+	font-weight: lighter;
+	font-family: 'Trebuchet MS', sans-serif;
+	text-shadow: 0 0 5px #fff,
+               0 0 10px #fff,
+               0 0 15px #fff,
+               0 0 20px #ff00de,
+               0 0 35px #ff00de,
+               0 0 40px #ff00de,
+               0 0 50px #ff00de,
+               0 0 75px #ff00de;
+}
+
+ul {
+	padding-top: 2rem;
+	padding-left: 3rem;
+	list-style-image: none;
+}
+ul li {
+	color: whitesmoke;
+	font-size: 20px;
+	line-height: 1.0;
+	padding-top: 0.5rem;
+	font-weight: lighter;
+	list-style-type: square;
+}	
+
+img.header {
+	width: 100%;
+	background-size: 100%;
+	background-clip: border-box;
+}
+a {
+	padding-left: 5rem;
+}
