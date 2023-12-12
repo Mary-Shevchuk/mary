@@ -1,0 +1,132 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Poppins:wght@300;400;600;700&family=Ubuntu:ital,wght@0,300;0,400;0,700;1,300&family=Young+Serif&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Poppins:wght@300;400;600;700&family=Ubuntu:ital,wght@0,300;0,400;0,700;1,300&family=Young+Serif&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Text&family=Inter:wght@400;500;600;700&family=Montserrat:wght@400;500;600;700&family=Poppins:wght@300;400;600;700&family=Ubuntu:ital,wght@0,300;0,400;0,700;1,300&family=Young+Serif&display=swap');
+
+
+@import url("reset.css");
+
+body {
+	font-family: "Inter", sans-serif;
+	font-size: 18px;
+	color: #7D7D7D;
+}
+
+.backend {
+	max-width: 1218px;
+	max-height: 1045px;
+	margin: 150.5px 320px;
+}
+
+.title {
+	max-width: 296px;
+	max-height: 22px;
+	margin: 0 auto;
+}
+
+.title-one {
+	max-width: 184px;
+	margin-left: 6px;
+}
+
+.box {
+	background-color: #40DDB6;
+	width: 8px;
+	height: 8px;
+}
+
+.title-two {
+	margin-top: 16px;
+}
+
+h5 {
+	color: #37393F;
+	font-family: "Inter", sans-serif;
+	font-size: 18px;
+	font-weight: 500;
+	line-height: normal;
+	text-align: center;
+}
+
+h1 {
+	color: #37393F;
+	font-family: "Inter", sans-serif;
+	font-size: 60px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: 1.21;
+	text-align: center;
+	margin-bottom: 70px;
+}
+
+h2 {
+	color: #37393F;
+	font-family: "Poppins", sans-serif;
+	font-size: 40px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: 1.21;
+	margin-bottom: 11px;
+}
+
+.grey-one,
+.grey-two,
+.grey-three {
+	color: #7D7D7D;
+	font-family: "Inter", sans-serif;
+	font-size: 18px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: 1.46;
+}
+
+.grey-one {
+	margin-bottom: 32px;
+}
+
+.grey-two {
+	margin-bottom: 24px;
+}
+
+h3 {
+	color: #37393F;
+	font-family: "Poppins", sans-serif;
+	font-size: 30px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+}
+
+span {
+	color: #40DDB6;
+	font-weight: 400;
+	font-style: normal;
+}
+
+.phosphor {
+	margin-bottom: 100px;
+}
+
+.pexels,
+.unsplash {
+	margin-bottom: 8px;
+}
+
+.green-one,
+.green-two {
+	color: #40DDB6;
+	font-family: "Inter", sans-serif;
+	font-size: 18px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: 1.46;
+}
+
+.green-one {
+	margin-bottom: 24px;
+}
+
+.green-two {
+	margin-bottom: 100px;
+}

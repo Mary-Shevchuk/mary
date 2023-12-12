@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Poppins:wght@300;400;600;700&family=Ubuntu:ital,wght@0,300;0,400;0,700;1,300&family=Young+Serif&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Poppins:wght@300;400;600;700&family=Ubuntu:ital,wght@0,300;0,400;0,700;1,300&family=Young+Serif&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Text&family=Inter:wght@400;500;600;700&family=Montserrat:wght@400;500;600;700&family=Poppins:wght@300;400;600;700&family=Ubuntu:ital,wght@0,300;0,400;0,700;1,300&family=Young+Serif&display=swap');
+
+
+@import url("reset.css");
+
+body {
+	color: #474747;
+	font-size: 20px;
+	font-family: "Inter", sans-serif;
+}
